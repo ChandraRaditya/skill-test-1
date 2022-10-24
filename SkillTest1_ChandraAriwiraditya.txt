@@ -1,0 +1,4 @@
+Nama			: Chandra Ariwiraditya
+Umur			: 27 Tahun
+Stack			: Frontend
+Bahasa Pemrograman	: Javascript, Typescript, Reactjs
